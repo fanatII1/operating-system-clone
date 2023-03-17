@@ -6,7 +6,7 @@ export const lockScreenSlice = createSlice({
   initialState: {
     wallpaper: wallpapers[3],
     isLocked: true,
-    validPIN: "123123",
+    validPIN: "543210",
   },
   reducers: {
     /**
