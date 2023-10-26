@@ -247,7 +247,7 @@ const initialState = {
       height: 35,
       onClick: () => {
         window.open(
-          "https://fanatii1.github.io/My-Portfolio/#home",
+          "https://fanatii1.github.io/Portfolio/",
           "_blank",
           WIN_FEATURES
         );
